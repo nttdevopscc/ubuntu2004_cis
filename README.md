@@ -17,7 +17,7 @@ Based on [CIS Ubuntu Linux 20.04 LTS Benchmark - v1.0.0 - 07-21-2020 ](https://w
 - If you like our work but cannot contribute to the code of the role by yourself, please take a moment to rate it in Ansible Galaxy.
  There you can easily give positive feedback to the developers about their work.
  [Galaxy Community Score](https://galaxy.ansible.com/florianutz/ubuntu2004_cis/)
-- If you find a bug within the role, but can't fix it yourself, please create a ticket with as many details as possible. Please keep in mind that all developers work on the project in their spare time, and it may take some time to get feedback [Issues Page](https://github.com/florianutz/ubuntu2004_cis/issues)
+
 
 ## IMPORTANT INSTALL STEP
 
